@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlswnstn&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=tlswnstn&show_icons=true">
+[![GitHub Streak](https://streak-stats.demolab.com?user=tlswnstn&theme=dracula&locale=ko)](https://git.io/streak-stats)

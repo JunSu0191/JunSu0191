@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**tlswnstn/tlswnstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JunSu0191/tlswnstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlswnstn&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=tlswnstn&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunSu0191&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=JunSu0191&show_icons=true">
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tlswnstn&theme=dracula&hide_border=true&locale=ko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JunSu0191&theme=dracula&hide_border=true&locale=ko)](https://git.io/streak-stats)

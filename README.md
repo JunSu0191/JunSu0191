@@ -46,6 +46,9 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=Junsu0191&show_icons=true"></td>
   </tr>
 </table>
+  # GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JunSu0191&theme=vue&locale=ko)](https://git.io/streak-stats)
 
 <br>
 
